@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Local Stockfish binary (download it separately)
+stockfish/
+stockfish*.exe
+
+# Local data or notes
+*.log
+*.pcraft
+.env
